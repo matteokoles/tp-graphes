@@ -1,0 +1,7 @@
+*.svg
+*.png
+!router.png
+*.zip
+gh-artifacts.json
+liste-id.txt
+artifact_*/
